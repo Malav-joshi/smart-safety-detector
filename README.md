@@ -1,4 +1,4 @@
-# 🦺 Smart Safety Detector
+# 🦺 Smart Safety Detector Or PPE detector 
 
 An AI-powered safety monitoring system that automatically detects whether a person is wearing the proper safety gear such as **helmets** and **vests**.  
 Built with **YOLOv9** for object detection and **Streamlit** for an interactive user interface, this project ensures quick, real-time verification of safety compliance in workplaces or construction zones.
